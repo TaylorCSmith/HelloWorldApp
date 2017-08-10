@@ -2,10 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ConsoleApp1
+namespace ConsoleApp
 {
     interface IHelloWorld
     {
+        // runs the helloworld console app
         void Run(string[] arguments);
     }
 }

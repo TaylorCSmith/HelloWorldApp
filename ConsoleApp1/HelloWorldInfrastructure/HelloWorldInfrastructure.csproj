@@ -1,14 +1,11 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp1.1</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="HelloWorldAPI\**" />
-    <EmbeddedResource Remove="HelloWorldAPI\**" />
-    <None Remove="HelloWorldAPI\**" />
+    <Folder Include="Models\" />
   </ItemGroup>
 
 </Project>
