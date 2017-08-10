@@ -2,7 +2,9 @@ HelloWorldApp
 
 CodingAssessment
 
-Write a ‘Hello World’ program. a.	The program has 1 current business requirement – write “Hello World” to the console/screen.
+Write a â€˜Hello Worldâ€™ program. 
+
+a.	The program has 1 current business requirement â€“ write â€œHello Worldâ€ to the console/screen.
 
 b.	The program should have an API that is separated from the program logic to eventually support mobile applications, web applications, or console applications, or windows services. c.	The program should support future enhancements for writing to a database, console application, etc.
 
