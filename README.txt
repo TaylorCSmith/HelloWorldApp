@@ -1,4 +1,5 @@
 ... this is pretty incomplete and doesn't fit all of the requirements
+... as I learn more I will add to this project
 
 HelloWorldApp
 
