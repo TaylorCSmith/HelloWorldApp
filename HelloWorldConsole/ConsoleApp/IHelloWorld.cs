@@ -2,11 +2,13 @@
 using System.Collections.Generic;
 using System.Text;
 
+
+// interface added for scalability
+
 namespace ConsoleApp
 {
     interface IHelloWorld
     {
-        // runs the helloworld console app
-        void Run(string[] arguments);
+ 
     }
 }

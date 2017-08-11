@@ -9,6 +9,8 @@ namespace HelloWorldAPI.Controllers
     [Route("api/[controller]")]
     public class ValuesController : Controller
     {
+        // contains basic API HTTP methods
+
         // GET api/values
         [HttpGet]
         public IEnumerable<string> Get()
