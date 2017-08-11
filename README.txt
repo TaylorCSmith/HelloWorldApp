@@ -1,6 +1,8 @@
+... this is pretty incomplete and doesn't fit all of the requirements
+
 HelloWorldApp
 
-CodingAssessment
+Coding Assessment
 
 Write a ‘Hello World’ program. 
 
